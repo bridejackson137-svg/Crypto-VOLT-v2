@@ -11,8 +11,8 @@
 | **Organisation**         | RATISS LABS                                                         |
 | **Date de publication**  | Juin 2026                                                           |
 | **Licence**              | Apache License, Version 2.0                                         |
-| **DOI**                  | À attribuer lors de la publication publique officielle              |
-| **Dépôt Source**         | À insérer lors de publication publique                              |
+| **DOI**                  | https://doi.org/10.5281/zenodo.20701141              |
+| **Dépôt Source**         |bridejackson137 |                             |
 | **Statut**               | Production-Grade — Conforme NIST 2024 — Audit Sécurité Validé      |
 
 ---
